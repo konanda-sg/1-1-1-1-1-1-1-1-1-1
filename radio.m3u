@@ -1,0 +1,183 @@
+#EXTM3U  url="https://raw.githubusercontent.com/Infinity-000/1/master/radio.m3u"
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/hitz955.png",Virgin Hitz 95.5 
+https://24863.live.streamtheworld.com/HITZ_955AAC_128.aac
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",City Radio Pattaya 90.25 FM
+https://plus.onair.network/radio/8020/ctmobile.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/TxRQrBB7gg.jpg",JS 100 Radio
+http://live11.netdesignhost.com:1935/pacificlive/pacificlive/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/japcrdy9nsfm.png",เพลงลูกทุ่ง ล้านนาเรดิโอ
+http://43.229.135.187:8000/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ddqtw2szlcdc.png",Huahin Radio Thailand
+https://inter1.plathong.net/7008/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gLFBxhmDEk.jpg",103 Like FM
+http://103likefm.plathong.net:7064/;stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/N96spp6XLf.png",MUN FM
+http://radio2.thzhost.com:4018/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.png",FLEX 102.5 FM
+https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yQaa92p5zN.jpeg",89.5 SWEET FM
+http://radio.spicymkt.com:9230/;stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/wryg76p7ebax.png",Request Radio Dance Mix
+http://27.254.142.208:8500/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/pFkhvW6wPL.png",Request Radio International 
+http://27.254.142.208:8400/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Shf4dp98ac.png",Request Radio For Life
+http://27.254.142.208:8300/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/GSJSFuqNnJ.png",Request Radio Country
+http://27.254.142.208:8200/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/6pvkygbpw8v5.jpg",Eingdoi Radio
+http://ohmi-design.com:8170/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hadgyexuzma9.png",FM ONE 103.5
+https://fmone.plathong.net/7010/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/zbX4rrqNu8.png",FM 95 ลูกทุ่งมหานคร
+http://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/LwKKkQyUcD.png",FM 101 Talk
+http://media.login.in.th:8135/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/EcrBmf5qEr.jpg",BBC World Service 
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/nns72bppeakv.png",93.5 Happy Time
+http://radio99.servradio.com:9336/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/cdsw45cqvjte.jpg",90.5 Smart News 
+http://live3.smartbomb.co.th:8624/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/geZgfjMRxE.jpg",Mellow 97.5 FM
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tlh9ufnzq7bn.png",98 EDS FM
+http://media.login.in.th:1290/stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/KvDHAwT62s.png",COOL Fahrenheit 93
+https://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/52kDndQrUz.jpg",Green Wave
+https://stream-02.sg1.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2fW-6ic5B-SC7hbFD0az4U)/dm/3/x7w25n6/d/live-2.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Ck8sVEmWdv.jpg",EFM
+https://stream-01.sg1.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAly4rumvPwcM5JubpoAWTV7U)/dm/3/x7w25lw/s/live-2.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/M5t3aG2vcB.png",Eazy FM 105.5
+https://18593.live.streamtheworld.com/EAZYFM_1055AAC.aac?dist=TRITON-WEB&dob=1900-01-01&gender=m&ttag=work%3Aemployee&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&pname=
+TDSdk&pversion=2.9&banners=none&sbmid=aa8f6ec3-bae0-4e97-da12-af407933c24e
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tm9qgsqh4jmt.jpg",Goodtime Radio
+https://radio182.bugaboo.tv/liveedge_goodtime_radio/smil:audio.smil/chunklist_b160000.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/TnCWW43MyK.png",FM 96.5 คลื่นความคิด
+https://mcotdigital-9ksau4.cdn.byteark.com/radiocdn_edge/fm965.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg",เพลงลูกทุ่ง Looktung Eingdoi Station
+https://radio14.plathong.net/7126/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/5vfxsvfwzgqm.png",106 ครอบครัวข่าว
+http://radio12.plathong.net:8648/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/mbtcqejrg3ca.jpg",สตริงใหม่ Pophits Radio Eingdoi 
+http://ohmi-design.com:9090/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg",90 ลูกทุ่ง รักไทย
+http://radio11.plathong.net:8896/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/WSsQSY9jEs.png",NBT - Radio Thailand 88 FM
+http://prdonline.prd.go.th:8200/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",Cat Radio
+http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2ercevqaw4vk.png",Musichitz Radio Inter
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:8006/live
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/naazdc5h6kuz.png",98 อีสาน เอฟเอ็ม
+http://radio11.spicymkt.com:8900/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/evaz3k7Nkm.png",NBT - Radio Thailand 105 FM
+http://prdonline.prd.go.th:8210/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Yb3G5xc8HF.jpeg",Fung Fung Fung
+http://link2.onair.network:8006/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/CPDCFXTyaw.png",NBT - Radio Thailand 97.0 FM
+https://cld-streaming.prd.go.th/live/192_9250.stream/chunklist_w2134718910.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/k8msvtjpbcpn.png",FM91 - Pattaya Mun D
+http://stream.radiojar.com/vcqh10xfhbruv
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/lwteyumhsccx.png",Musichitz Radio Pop
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vBjbAq89jv.png",City Radio Pattaya
+http://202.129.207.86:8074/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dqhdnczntxrn.png",YES Radio thai Family
+http://27.254.65.244:8000/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",Yesterday 106.5 FM
+http://radio4.thzhost.com:4122/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/c34s7h6nxg6t.png",Friends Bangkok
+http://210.1.60.244:8000/FriendsBangkok
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ykdw83n7gmqj.jpg",LookkungRadio Eingdoi Station
+http://ohmi-design.com:8708/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/42x9gsrmjbvq.png",GREAT 93
+http://139.5.145.31:8000/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/3JDhTmZUBQ.jpg",CH19 FM
+http://s7.reliastream.com:8003/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/6lzvhjyy4fs7.jpeg",SBT Radio (หลวงตาบัว Luangta Maha Bua)
+http://202.142.203.28:8000/siangdham.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg",วัดป่าไทรงาม (Wat Sai Ngam)
+http://103.22.182.105:7110/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gcevqeh6xptz.png",THAI MUSIC
+http://listen.thai-radio.net/medium
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/cyf2gkxas9st.jpeg",Surf 102.5 FM
+https://vs40.applesources.net:8000/surf1025
+#EXTINF:-1 group-title="Radio" tvg-logo="https://imgs.mcot.net/images/2017/10/1509377605535.png",MCOT Modern Radio
+http://rstream.mcot.net:9066/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg",เพลงลูกทุ่ง จั๊กกะจี้เรดิโอ
+http://43.229.135.187:8020/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/25drz35wb3pm.png",Fat 93 Radio เชียงราย
+https://hp1.hostpleng.cloud/8272/stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/enfwkbl3q8l2.jpg",Friend 105.7 Chiangmai 
+http://112.121.150.133:9338/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vusgesxvjnpc.png",Tofu Pop Radio
+https://18593.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac?dist=TRITON-WEB&dob=1900-01-01&gender=m&ttag=work%3Aemployee&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9
+&pname=TDSdk&pversion=2.9&banners=970x250&sbmid=ecdc808b-f708-4af0-87db-7a20393bfc4d
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Yqjm3K7wSQ.png",Anurak Radio
+https://80.hostpleng.com/api.php?url=http://112.121.150.133:8143/live
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2brjk2k4sxwq.png",สถานีเพลงลูกทุ่งออนไลน์ คนไทยกันเอง
+https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/d8/91/e8/d891e8f7-3d82-d301-a5eb-872a5f954de1/mzaf_8832097980853146978.plus.aac.p.m4a
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/shmc6hvsrzn7.jpg",Muingtest Radio
+http://ohmi-design.com:8364/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/6jeXt8rZf5.png",Sunshine Radio
+http://c1.hostpleng.cloud:8046/live
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/w7KSxyGFgt.png",Phuket LIVE 89.5
+http://radio4.thzhost.com:4118/;stream/1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/u3bfzuhvj9mh.jpg",XFM 94.5
+https://radio12.plathong.net/7360/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/qe8sfxxt3qnf.png",BlueWave FM 97
+http://112.121.151.133:8109/stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/avltfshqkte4.png",รักษ์ปักษ์ใต้ เรดิโอ
+https://radio10.plathong.net/7100/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/umagyhb4j8s7.jpg",Bangkok FM
+http://europa.shoutca.st:8644/stream%20Title1=bangkok.fm
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vm4z3fhmyesb.png",MCOT Radio
+http://rstream.mcot.net:9094/;.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/246pd75kpjkt.png",Big FM
+http://media.login.in.th:8195/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/chNn37u4A7.png",Radio Chiangmai 93.2 FM
+http://prdonline.prd.go.th:8118/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hfsu6j7fn2jh.png",จส.5 AM 567 KHz ชัยภูมิ
+http://media.login.in.th:8235/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/cwkbwqxz6epw.png",โสรยามิวสิค
+http://radio14.plathong.net:7146/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8qVGCNNArp.png",Pongpan Radio
+http://radio.portradiothai.com:6010/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/m64xbpvf6qbh.jpg",BP Radio HD
+http://fmonair.com:7890/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/cx7kh69rsnuf.png",เพื่อนเพลงสเตชั่น
+https://radio14.plathong.net/7060/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/YSfN8g5qrR.png",Kiss 91.7 FM
+http://s1.thailandstreaming.net:8020/kiss.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/rxgxwwkpxu6z.jpg",FM93 Love Radio Pattani
+http://103.22.182.14:8060/stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ewd3cgawxfsf.png",Top View Point Radio
+http://radio12.plathong.net:8274/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/95eeadbawa4q.png",Boonma FM
+http://radio10.plathong.net:7030/;stream.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/K5VfKFaArk.jpeg",American Top 40
+https://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/g4ebsjvhpaua.png",PPP 97.2 FM
+http://radio11.plathong.net:8400/;?type=http%3F1536326009750.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/pdrcum6nz9hz.png",STAR FM
+https://wzorigin.becteroradio.com/jingle/_definst_/mp4:website/NOADS/Star_Website_Jingle.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NvUAj9bf8W.png",Capitol FM
+http://atlanticthai.primcast.com:5898/;
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/radios-150px/g88q6quvcp3n.jpg",97 Mazz Radio
+http://radio1.comgig.com:4096/;stream.m4a
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.onlinethailand.net/radio_online/images/880-fm-english.jpg",FM 88.0 Radio Thailand
+https://cld-streaming.prd.go.th/live/192_8800.stream/chunklist_w1759639183.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",มิติข่าว 90.5
+http://live3.smartbomb.co.th:8624/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg",97.5 FM Seed FM
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg",Fm95 Looktung
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",Fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",จส.100 (js100)
+https://wzorigin.becteroradio.com/Flex/flex-radio2/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",met107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
