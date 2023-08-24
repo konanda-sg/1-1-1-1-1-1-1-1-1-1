@@ -1,5 +1,10 @@
 18+ แบบ M3U
 	 
+FC2PPV
+https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/avple_FC2PPV.m3u
+
+SWAG
+https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/avple_SWAG.m3u
 
 หนังAV
 https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/avsubthai_jav.m3u
